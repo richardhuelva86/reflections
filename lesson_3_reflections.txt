@@ -3,3 +3,13 @@ I'd want to use it if I need to share with more people the content of the reposi
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because you may keep master not updated until you merged an experimental branch
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are useful when you don't have permissions to modify a repository on github or you don't want to modify it directly, so you prefer to have a copy of entire repository.
+Instead of that, clone makes a copy of a repository on your local machine, and finally branches work over a repository, allowing to create experimental points from a state.
+
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+If remote server is down, you can still work with the updated version of remote state
+
