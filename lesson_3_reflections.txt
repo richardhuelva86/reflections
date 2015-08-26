@@ -16,3 +16,6 @@ If remote server is down, you can still work with the updated version of remote 
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I'd collaborate through a public directory without version control... or a bad version control based on copies of folders, but it's a mess
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you want to have a stable state, and some developments done by some developers
